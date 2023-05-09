@@ -1,5 +1,5 @@
 
-![logo]()
+![logo](https://github.com/irshad0075/irshad0075/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Irshad</h1>
 <h3 align="center">I AM CURRENTLY PURSUING MERN STACK DEVELOPMENT.</h3>
 
