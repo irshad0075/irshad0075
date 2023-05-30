@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irshad0075&" alt="irshad0075" /></p>
 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=irshad0075&theme=onedark)](https://github.com/irshad0075/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=irshad0075&theme=monokai)](https://github.com/irshad0075/github-profile-trophy)
