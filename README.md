@@ -30,4 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irshad0075&show_icons=true&locale=en" alt="irshad0075" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irshad0075&" alt="irshad0075" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=irshad0075&theme=onedark)](https://github.com/irshad0075/github-profile-trophy)
