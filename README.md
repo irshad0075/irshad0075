@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **irshadyousuf0075@gmail.com**
 
-- ⚡ Fun fact **I think I am funny 🙂🙂**
+- ⚡ Fun fact: Coding improves Problem-Solving Skill
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +32,12 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=irshad0075&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+<h3 align="left">Profile views and Followers: </h3>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=irshad0075&style=circle&color=red"> </a>
+<a href="https://github.com/irshad0075?tab=followers">
+   <img src="https://img.shields.io/github/followers/irshad0075?label=Followers&style=social" alt="GitHub Badge">
+</a>
